@@ -56,7 +56,7 @@ class StudentMain
         Studentenc s=new Studentenc();
 		
 		//Setting values
-        s.setRollno(2001);
+                s.setRollno(2001);
 		s.setName("Abhijeet");
 		s.setAge(24);
 		s.setAddress("mumbai");
